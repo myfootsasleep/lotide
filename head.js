@@ -1,6 +1,5 @@
-let firstChar = "";
 let head = function(arr1) {
-  //Testing what is outputted console.log(arr1[0]);
+  let firstChar = "";
   firstChar = arr1[0];
   return firstChar;
 };

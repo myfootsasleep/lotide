@@ -1,6 +1,5 @@
 let countOnly = function(allItems, itemstoCount) {
   const results = {};
-  
   for (const item of allItems) {
     console.log(item);
     if (itemstoCount[item]) {
@@ -11,8 +10,6 @@ let countOnly = function(allItems, itemstoCount) {
       }
     }
   }
-  
   return results;
 };
-
 module.exports = countOnly;

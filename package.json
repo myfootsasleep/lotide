@@ -1,8 +1,8 @@
 {
   "name": "@myfootsasleep/lotide",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package for Richards lotide",
-  "main": "assertArraysEqual.js",
+  "main": "",
   "directories": {
     "test": "test"
   },

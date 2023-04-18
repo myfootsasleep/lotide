@@ -7,9 +7,3 @@ describe("#flatten", () => {
     assert.deepEqual(flatten([1, 2, [3, 4], 5, [6]]), [1, 2, 3, 4, 5, 6]);
   });
 });
-//assertArraysEqual(flatten([1, 2, [3, 4], 5, [6]]), [1, 2, 3, 4, 5, 6]);
-
-//console.log(flatten(([1, 2, [3, 4,], 5, [6]])).length)
-
-//let testing = ([1, 2, [3, 4], 5, [6]])
-//console.log(testing[2])
