@@ -1,4 +1,4 @@
-let head = function(arr1) {
+const head = function(arr1) {
   let firstChar = "";
   firstChar = arr1[0];
   return firstChar;

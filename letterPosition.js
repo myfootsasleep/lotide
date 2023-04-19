@@ -1,5 +1,5 @@
-let letterPositions = function(sentence) {
-  let result = {};
+const letterPositions = function(sentence) {
+  const result = {};
   for (let i = 0; i < sentence.length; i++) {
     if (sentence[i] !== " ") {
       if (result[sentence[i]]) {
