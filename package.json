@@ -2,7 +2,7 @@
   "name": "@myfootsasleep/lotide",
   "version": "1.0.3",
   "description": "Package for Richards lotide",
-  "main": "",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
